@@ -1,4 +1,4 @@
-# Tencent-Time-Series-Analysis
+# Tencent Time Series Analysis
 - Conducted a brief analysis of 5 years of Tencent Stock.
 - Examined linear and autocorrelation plots of Tencent's closing prices for trends and seasonality.
 - Performed log transformation and differencing of closing prices to remove trends and seasonality.
